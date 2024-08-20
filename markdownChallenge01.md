@@ -66,7 +66,7 @@ Add a hyperlink to an external resource.
 
 Include at least one image with appropriate alt text.
 
-![Kehase](panda.jpg)
+![Kehase](Panda.jpg)
 
 
 | col 1 | col 2 | col 3 |
