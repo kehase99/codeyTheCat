@@ -73,7 +73,8 @@ Include at least one image with appropriate alt text.
 | ----- | ----- | ----- |
 | row 2 | row 2 | row 3 |
 
-![Panda riding](https://cdn.pixabay.com/photo/2021/11/14/18/36/telework-6795505_640.jpg)
+![Panda riding](
+https://cdn.pixabay.com/photo/2021/11/14/18/36/telework-6795505_640.jpg)
 
 ### Tables
 
