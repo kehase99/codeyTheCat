@@ -78,7 +78,6 @@ Include at least one image with appropriate alt text.
 ### Tables
 
 
-
 | Test1 | Test2 | Test3 |
 | ----- | ----- | ----- |
 |       |       |       |
@@ -95,11 +94,13 @@ Include at least one image with appropriate alt text.
 <hr/>
 
 ````
+
 test1
 test2
 test3
 test4
 test5
 test6
+test7
 ```
 ````
